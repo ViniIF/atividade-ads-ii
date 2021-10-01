@@ -15,7 +15,16 @@ public class AtividadeAvaliativaJavaADS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // declaração
+        String opa;
+
+        // instanciação
+        opa = new String("Atividade ADS!");
+
+        // declaração e instanciação (mais prático)
+        String opa = "Alô, Mundo!";
+        String nome = "Josefino";
+        System.out.printll("Top!");
     }
     
 }
